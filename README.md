@@ -6,6 +6,9 @@ https://guides.github.com/activities/hello-world/
 ## Courses
 ### https://www.codecademy.com/learn/learn-git
 
+## Ebooks
+### https://git-scm.com/book/en/v2
+
 ## Guides
 ### https://app.pluralsight.com/guides/open-a-pull-request-via-the-github-api
 
