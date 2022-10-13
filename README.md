@@ -10,7 +10,7 @@ https://guides.github.com/activities/hello-world/
 ### [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
 ## Ebooks
-### https://git-scm.com/book/en/v2
+- [ ] https://git-scm.com/book/en/v2
 
 ## Guides
 ### https://app.pluralsight.com/guides/open-a-pull-request-via-the-github-api
